@@ -1,0 +1,7 @@
+#main:
+#    path: /main
+#    controller: App\Controller\MainController::index
+
+student:
+    path: /student
+    controller: App\Controller\StudentController::index
