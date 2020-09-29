@@ -8,6 +8,8 @@ use Symfony\Component\Routing\Annotation\Route;
 
 class TeacherController extends AbstractController
 {
+
+
     /**
      * @Route("/teacher/{name}", name="teacher")
      */
